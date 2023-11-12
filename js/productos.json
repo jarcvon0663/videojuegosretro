@@ -1,0 +1,272 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Pepsiman",
+        "imagen": "./img/pc/132.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Resident Evil 2",
+        "imagen": "./img/pc/46.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Resident Evil 3",
+        "imagen": "./img/pc/47.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Crash Bandicoot",
+        "imagen": "./img/pc/032.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Crash Team Racing",
+        "imagen": "./img/pc/57.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Pokémon",
+        "imagen": "./img/pc/pokemon.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Mario Kart",
+        "imagen": "./img/pc/mario kart.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "007 Tomorrow Never Dies",
+        "imagen": "./img/pc/54.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Bugs Bunny y Taz",
+        "imagen": "./img/pc/55.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Capcom vs SNK",
+        "imagen": "./img/pc/56.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Driver 1",
+        "imagen": "./img/pc/58.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Driver 2",
+        "imagen": "./img/pc/59.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Harry Potter y la Cámara de los Secretos",
+        "imagen": "./img/pc/40.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Harry Potter y la Piedra Filosofal",
+        "imagen": "./img/pc/60.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Jackie Chan Stuntmaster",
+        "imagen": "./img/pc/41.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Medal of Honor Underground",
+        "imagen": "./img/pc/42.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Metal Slug X",
+        "imagen": "./img/pc/43.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Mortal Kombat Trilogy",
+        "imagen": "./img/pc/112.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "NASCAR Thunder 2004",
+        "imagen": "./img/pc/44.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Need for Speed Porsche",
+        "imagen": "./img/pc/45.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Road Rash Jailbreak",
+        "imagen": "./img/pc/48.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Silent Hill",
+        "imagen": "./img/pc/49.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Spider-Man",
+        "imagen": "./img/pc/50.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Syphon Filter",
+        "imagen": "./img/pc/51.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Syphon Filter 3",
+        "imagen": "./img/pc/52.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Tony Hawk's Pro Skater 4",
+        "imagen": "./img/pc/53.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Acceso a todo el catálogo",
+        "imagen": "./img/pc/todos.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PC"
+        },
+        "precio": 30000
+    }
+]

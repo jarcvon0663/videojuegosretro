@@ -60,7 +60,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-07",
         "titulo": "Mario Kart",
         "imagen": "./img/pc/mario kart.jpg",
         "categoria": {
@@ -70,7 +70,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-08",
         "titulo": "007 Tomorrow Never Dies",
         "imagen": "./img/pc/54.jpg",
         "categoria": {
@@ -80,7 +80,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-09",
         "titulo": "Bugs Bunny y Taz",
         "imagen": "./img/pc/55.jpg",
         "categoria": {
@@ -90,7 +90,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-10",
         "titulo": "Capcom vs SNK",
         "imagen": "./img/pc/56.jpg",
         "categoria": {
@@ -100,7 +100,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-11",
         "titulo": "Driver 1",
         "imagen": "./img/pc/58.jpg",
         "categoria": {
@@ -110,7 +110,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-12",
         "titulo": "Driver 2",
         "imagen": "./img/pc/59.jpg",
         "categoria": {
@@ -120,7 +120,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-13",
         "titulo": "Harry Potter y la Cámara de los Secretos",
         "imagen": "./img/pc/40.jpg",
         "categoria": {
@@ -130,7 +130,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-14",
         "titulo": "Harry Potter y la Piedra Filosofal",
         "imagen": "./img/pc/60.jpg",
         "categoria": {
@@ -140,7 +140,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-15",
         "titulo": "Jackie Chan Stuntmaster",
         "imagen": "./img/pc/41.jpg",
         "categoria": {
@@ -150,7 +150,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-16",
         "titulo": "Medal of Honor Underground",
         "imagen": "./img/pc/42.jpg",
         "categoria": {
@@ -160,7 +160,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-17",
         "titulo": "Metal Slug X",
         "imagen": "./img/pc/43.jpg",
         "categoria": {
@@ -170,7 +170,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-18",
         "titulo": "Mortal Kombat Trilogy",
         "imagen": "./img/pc/112.jpg",
         "categoria": {
@@ -180,7 +180,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-19",
         "titulo": "NASCAR Thunder 2004",
         "imagen": "./img/pc/44.jpg",
         "categoria": {
@@ -190,7 +190,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-20",
         "titulo": "Need for Speed Porsche",
         "imagen": "./img/pc/45.jpg",
         "categoria": {
@@ -200,7 +200,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-21",
         "titulo": "Road Rash Jailbreak",
         "imagen": "./img/pc/48.jpg",
         "categoria": {
@@ -210,7 +210,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-22",
         "titulo": "Silent Hill",
         "imagen": "./img/pc/49.jpg",
         "categoria": {
@@ -220,7 +220,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-23",
         "titulo": "Spider-Man",
         "imagen": "./img/pc/50.jpg",
         "categoria": {
@@ -230,7 +230,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-24",
         "titulo": "Syphon Filter",
         "imagen": "./img/pc/51.jpg",
         "categoria": {
@@ -240,7 +240,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-25",
         "titulo": "Syphon Filter 3",
         "imagen": "./img/pc/52.jpg",
         "categoria": {
@@ -250,7 +250,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-26",
         "titulo": "Tony Hawk's Pro Skater 4",
         "imagen": "./img/pc/53.jpg",
         "categoria": {
@@ -260,7 +260,7 @@
         "precio": 7000
     },
     {
-        "id": "abrigo-06",
+        "id": "abrigo-27",
         "titulo": "Acceso a todo el catálogo",
         "imagen": "./img/pc/todos.jpg",
         "categoria": {

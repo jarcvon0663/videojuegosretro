@@ -5,3 +5,5 @@
 Se actualizó el carrito quitando el botón de paypal
 
 Se actualizó los botones de whatsapp
+
+Se incluyó barra de búsqueda

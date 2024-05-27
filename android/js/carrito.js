@@ -60,7 +60,7 @@ function eliminarDelCarrito(e) {
         localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
         cargarProductosCarrito();
         Toastify({
-            text: "Producto eliminado",
+            text: "Juego eliminado",
             duration: 3000,
             close: true,
             gravity: "top",
@@ -81,7 +81,7 @@ function vaciarCarrito() {
     Swal.fire({
         title: '¿Estás seguro?',
         icon: 'question',
-        html: `Se van a borrar ${productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0)} productos.`,
+        html: `Se van a borrar ${productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0)} juegos.`,
         showCancelButton: true,
         focusConfirm: false,
         confirmButtonText: 'Sí',

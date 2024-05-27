@@ -28,7 +28,7 @@ function cargarProductos(productosElegidos) {
             <img class="producto-imagen" src="${producto.imagen}" alt="${producto.titulo}">
             <div class="producto-detalles">
                 <h3 class="producto-titulo">${producto.titulo}</h3>
-                <p class="producto-precio">$${producto.precio}</p>
+                <p class="producto-precio">Precio $${producto.precio}</p>
                 <a class="producto-trailer" href="${producto.trailer}" target="_blank">
                     <img src="./img/trailer.png" alt="Trailer">
                 </a>
@@ -116,7 +116,7 @@ function agregarAlCarrito(e) {
     if (productoExistente) {
         // Si el producto ya está en el carrito, mostrar un mensaje
         Toastify({
-            text: "Este producto ya está en el carrito",
+            text: "Este juego ya está en el carrito",
             duration: 3000,
             close: true,
             gravity: "top", // `top` or `bottom`
@@ -137,7 +137,7 @@ function agregarAlCarrito(e) {
     } else {
         // Si el producto no está en el carrito, agregarlo
         Toastify({
-            text: "Producto agregado",
+            text: "Juego agregado, ve al carrito para pagar",
             duration: 3000,
             close: true,
             gravity: "top", // `top` or `bottom`

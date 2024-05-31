@@ -1,16 +1,27 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Videojuegos Retro</title>
-    <link rel="icon" type="image/x-icon" href="./img/favicon.ico">
+    <meta name="description"
+        content="Venta de videojuegos retro para celular y computador. Encuentra tus juegos favoritos en Videojuegos Retro.">
+    <meta name="keywords" content="videojuegos, retro, celular, computador, juegos, venta">
+    <meta name="author" content="Arturo Rios Castaño">
 
+    <title>Videojuegos Retro</title>
+
+    <link rel="icon" type="image/x-icon" href="./img/favicon.ico">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
     <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+        integrity="sha384-MFd4e0QuVc8R5BCVytIShyLrs1F6NXrhiIiIh2rvJpcR+n4P6aY+kSPhR3IHDUCP" crossorigin="anonymous">
+
+    <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
 </head>
+
 <body>
 
     <div class="wrapper">
@@ -25,51 +36,82 @@
                 <i class="bi bi-x"></i>
             </button>
             <header>
-                <h1 class="logo">Videojuegos</h1>
-                <img style="height: 130px; width: 130px;" src="./img/logo.png" alt="">
-                <h1 class="logo">Retro</h1>
+                <h2 class="logo">Videojuegos</h2>
+                <img style="height: 100px; width: 100px;" src="./img/logo.png" alt="Logo de Videojuegos Retro">
+                <h2 class="logo">Retro</h2>
             </header>
             <nav>
                 <ul class="menu">
                     <li>
-                        <a class="boton-menu boton-carrito" href="./carrito.html">
-                            <i class="bi bi-cart-fill"></i> Hacer pago $ <span id="numerito" class="numerito">0</span>
-                        </a>
+                        <a class="boton-menu boton-carrito" href="./android/android.html">Ver juegos para celular</a>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./pc/pc.html">Ver juegos para computador</a>
                     </li>
                 </ul>
             </nav>
             <footer>
-                <p class="texto-footer">© 2023 Videojuegos</p>
+                <p class="texto-footer">© 2023 Videojuegos Retro</p>
             </footer>
         </aside>
         <main>
-            <h2 class="titulo-principal" id="titulo-principal">Catálogo celulares Android con menos de 6 GB de RAM</h2>
-            <div class="search-bar">
-                <input type="text" id="search-input" placeholder="Buscar juegos..." oninput="buscarJuegos()">
-            </div>
-            <div class="botones">
-                <button onclick="ordenarPorPopularidad()">Más populares</button>
-                <button onclick="ordenarAlfabeticamente()">Orden alfabético</button>
-            </div>
-            <div id="contenedor-productos" class="contenedor-productos">
-                <!-- Esto se va a rellenar con JS -->
-            </div>
-            <!-- Contenedor del pop-up -->
-            <div id="popup-trailer" class="popup">
-                <div class="popup-content">
-                    <span class="popup-close">&times;</span>
-                    <iframe id="popup-video" src="" frameborder="0" allowfullscreen></iframe>
+            <h2 class="titulo-principal" id="titulo-principal">¿Quieres juegos para celular o computador?</h2>
+            <div id="contenedor-productos" class="contenedor-productos-inicio">
+                <div class="producto-inicio">
+                    <a href="./android/android.html">
+                        <h3>Juegos para celulares</h3>
+                        <img src="./img/celular.jfif" alt="Juegos para celulares">
+                        <button onclick="location.href='./android/android.html'">Ver juegos</button>
+                    </a>
+                </div>
+                <div class="producto-inicio">
+                    <a href="./pc/pc.html">
+                        <h3>Juegos para computador</h3>
+                        <img src="./img/pc.jfif" alt="Juegos para computador">
+                        <button onclick="location.href='./pc/pc.html'">Ver juegos</button>
+                    </a>
                 </div>
             </div>
-            <a href="https://api.whatsapp.com/send?phone=573042672810&text=Hola,%20no%20encuentro%20el%20juego%20que%20busco" target="_blank">
-                <img style="height: 100px; width: 300px;" src="./img/whatsapp2.png" alt="WhatsApp">
-              </a>
+            <br>
+            <br>
+            <div class="search-bar">
+                <h3 class="titulo-principal"><label for="selector-pais">Si estás fuera de Colombia, selecciona tu país:
+                </h3></label>
+                <select id="search-input">
+                    <option value="co"></option>
+                    <option value="ar">Argentina</option>
+                    <option value="bo">Bolivia</option>
+                    <option value="cl">Chile</option>
+                    <option value="cr">Costa Rica</option>
+                    <option value="cu">Cuba</option>
+                    <option value="do">República Dominicana</option>
+                    <option value="ec">Ecuador</option>
+                    <option value="sv">El Salvador</option>
+                    <option value="es">España</option>
+                    <option value="gt">Guatemala</option>
+                    <option value="hn">Honduras</option>
+                    <option value="mx">México</option>
+                    <option value="ni">Nicaragua</option>
+                    <option value="pa">Panamá</option>
+                    <option value="py">Paraguay</option>
+                    <option value="pe">Perú</option>
+                    <option value="pr">Puerto Rico</option>
+                    <option value="uy">Uruguay</option>
+                    <option value="ve">Venezuela</option>
+                    <!-- Puedes agregar más opciones si lo deseas -->
+                </select>
+                <a href="./extranjero/extranjero.html"><button>Ir</button></a>
+            </div>
+            <footer>
+                <p class="descargo-responsabilidad">
+                    Este sitio web es un catálogo de videojuegos y no recopila ni almacena datos personales de los
+                    usuarios. Tampoco se utilizan cookies para el seguimiento de los visitantes.
+                </p>
+            </footer>
         </main>
-        <a href="./carrito.html" class="boton-flotante">Hacer pago $</a>
     </div>
-    
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
-    <script src="./js/main.js"></script>
-    <script src="./js/menu.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js" async></script>
+    <script src="./js/menu.js" defer></script>
 </body>
+
 </html>
